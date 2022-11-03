@@ -85,5 +85,6 @@ function startOver() {
   animateGameOver();
   level = 0;
   pattern = [];
+  userClickedPattern = [];
   gameStarted = false;
 }
